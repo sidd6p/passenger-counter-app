@@ -1,6 +1,6 @@
 # Passenger-Counter-App
 
-<img width="auto" alt="image" src="https://user-images.githubusercontent.com/91800813/158652683-d598a3a3-5ca3-49de-898f-82926b930a7d.png">
+<img width="auto" alt="demo-image" src="https://user-images.githubusercontent.com/91800813/158695575-cb63cf08-9252-4d91-885d-52dfc47deee2.png">
 
 ## Tech Stack
 - CSS
