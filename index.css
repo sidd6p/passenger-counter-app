@@ -10,13 +10,14 @@ body {
 
 h1 {
     padding-top: 10px;
-    color: rgb(43, 76, 221);
+    color: rgb(0, 120, 233);
 }
 
 h2 {
     font-size: 50px;
+    text-decoration: underline overline;
     margin: 20px 0px;
-    color: rgb(43, 76, 221);
+    color: rgb(251, 255, 0);
 }
 
 button {
